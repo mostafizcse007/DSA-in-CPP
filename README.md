@@ -1,2 +1,2 @@
-# DSA-using-C-
+# DSA-using-CPP
 Data Structure and algorithm using c++
