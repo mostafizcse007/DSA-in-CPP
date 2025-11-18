@@ -1,0 +1,1 @@
+{"name":"Local: Collision","url":"d:\\C++\\Basics\\Collision.cpp","tests":[{"id":1759420221292,"input":"5\n3 6 6 6 6 5 3 5 5 4\n1 1 7 1 7 7 1 7 4 2\n1 4 7 4 7 6 1 6 5 5\n6 2 9 2 9 6 6 6 1 7\n4 3 9 3 9 5 4 5 10 7  ","output":"0\n1\n1\n0\n0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C++\\Basics\\Collision.cpp","group":"local","local":true}
