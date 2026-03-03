@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # DSA-using-CPP
 Data Structure and algorithm using c++
 =======
@@ -179,5 +178,5 @@ Ctrl + Shift + B → build
 
 ---
 
-> **Happy Coding!** 🚀
->>>>>>> 92bade3 (Updated readme)
+
+
